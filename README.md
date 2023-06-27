@@ -1,4 +1,5 @@
 # JBShop-Web
+### vente de chaussures en ligne
 ### page d'accueil
 <img width="960" alt="image" src="https://github.com/jewathe/JBShop-Web/assets/89857594/556fde3d-f41a-4cc6-91cb-f61e636e6eff">
 
